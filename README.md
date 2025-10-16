@@ -23,7 +23,6 @@ A simple **Sentiment Analysis Web App** built with **React** and **Material UI**
 ---
 
 ## 🎨 Screenshots
-
-You can paste your images inside the repo, for example:
+Website Demo URL: https://mohakamran.github.io/sentiment-analyzer/
 ![App Screenshot 1](Screenshot_1.png)
 ![App Screenshot 2](Screenshot_2.png)
