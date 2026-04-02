@@ -12,6 +12,8 @@ A simple **Sentiment Analysis Web App** built with **React** and **Material UI**
 - Fully **offline** — no API key or external service required
 - Easy to deploy on **GitHub Pages / Netlify / Vercel**
 
+View: sentiment-analyzer-demo.vercel.app
+
 ---
 
 ## 🛠️ Tech Stack
